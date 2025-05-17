@@ -2,8 +2,7 @@
 An OCR project to extract information about Patient and Prescription details from PDF Documents.
 Also this project involved creation of a backend server which will process data extraction requests.
 ## Demo
-C:\Users\darsh\OneDrive\Desktop\My_Projects\medical-data-extraction-main\mde.mp4
-## Overview
+![Demo Video]("medical-data-extraction-main\mde.mp4")## Overview
 1. [What is OCR?](#a1)
 2. [Introduction to Project](#a2)
 3. [Project Execution Steps](#a3)
